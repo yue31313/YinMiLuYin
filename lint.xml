@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="SdCardPath">
+        <ignore path="src/com/example/lyj/MainActivity.java" />
+        <ignore path="src/com/example/lyj/U.java" />
+    </issue>
+    <issue id="SimpleDateFormat">
+        <ignore path="src/com/example/lyj/MainActivity.java" />
+    </issue>
+</lint>
